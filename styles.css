@@ -1,0 +1,81 @@
+
+#title {
+    color: hsl(295, 52%, 76%);
+    text-decoration: underline dashed rgb(255, 47, 172);
+    padding: 30px;
+}
+
+#mango, #oreo, #straw, #recipes {
+    background-color: rgb(230, 248, 241);
+}
+
+.name {
+    color: red;
+}
+
+.descrip {
+    color: orange;
+}
+
+.ingred {
+    color: rgb(148, 220, 41);
+}
+
+.steps {
+    color: rgb(0, 217, 255);
+}
+
+.home {
+    color: rgb(119, 18, 212);
+    text-decoration: none;
+}
+
+* {
+    font-family: Arial;
+}
+
+
+
+#title {
+	cursor: url("../Downloads/mols.png"), auto;
+}
+
+#recipes {
+    text-align: center;
+    
+}
+
+a {
+    text-decoration: none;
+    color:rgb(253, 9, 200);
+    
+}
+
+.a {
+    border: 2px solid rgb(77, 207, 236) ;
+    background-color: rgb(237, 225, 245);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    text-shadow: 2px 2px 4px #48ec0d;
+
+}
+
+.a:hover {
+    background-color: rgb(147, 235, 235);
+}
+
+#btn {
+    border: 2px solid rgb(188, 69, 209) ;
+    background-color: rgb(234, 215, 241);
+    border-radius: 9px;
+}
+
+#btn:hover {
+    background-color: cyan;
+    
+}
+
