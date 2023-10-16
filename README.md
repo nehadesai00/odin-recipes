@@ -1,1 +1,2 @@
-In this project, I will be creating a recipe website.
+# odin-recipes
+Check out this project here: https://nehadesai00.github.io/odin-recipes/
